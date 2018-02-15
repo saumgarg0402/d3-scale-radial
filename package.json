@@ -1,0 +1,11 @@
+{
+  "name": "d3-scale-radial",
+  "version": "1.0.0",
+  "description": "D3v4 Radial Stack Scale package",
+  "main": "d3-scale-radial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Bostock",
+  "license": "ISC"
+}
